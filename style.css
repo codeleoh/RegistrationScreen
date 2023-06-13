@@ -62,3 +62,14 @@ input {
     background:linear-gradient(90deg,#e03f0d, #bd654b);
     color:#fff;
 }
+
+footer {
+    text-align:center;
+    margin-top:40px;
+}
+
+#anco {
+    text-decoration:none;
+    font-weight:bold;
+    color:#fff;
+}
